@@ -142,6 +142,13 @@ https://github.com/user-attachments/assets/66e890ba-a05c-458d-95f0-f517d72d4ef8
 - Reduced accidental bugs during feature changes  
 - More predictable client behavior  
 
+
+https://github.com/user-attachments/assets/0756c239-605f-444c-8b33-43bd8a48b4d6
+https://github.com/user-attachments/assets/27478c0b-1c4c-41fb-ac9b-73852ea56f88
+
+
+
+
 ---
 
 ## 🤝 Collaboration & Communication Style
