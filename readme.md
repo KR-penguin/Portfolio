@@ -106,6 +106,16 @@ and refactor systems with **both ends in mind**.
 - Cleaner separation of responsibilities  
 - Easier future modification of combat logic  
 
+
+
+Uploading video1 (1).mov…
+
+
+
+Uploading video1 (2).mov…
+
+
+
 ---
 
 ### 2️⃣ Hacked / Bit Designer
