@@ -109,12 +109,13 @@ and refactor systems with **both ends in mind**.
 
 
 
-https://github.com/user-attachments/assets/69c7f4b6-e059-45d2-87dc-a27665f49913
+https://github.com/user-attachments/assets/4a3a56a0-dc49-4fe9-a0e5-3220a2df8623
 
 
 
+https://github.com/user-attachments/assets/1111c9f3-ddbd-46b1-beac-f44c90a2fc84
 
-https://github.com/user-attachments/assets/9acde13a-9aa5-465c-b595-7063d704a090
+
 
 
 
